@@ -42,9 +42,7 @@ The business needs to understand its customer base at a deeper level than total 
 
 **Business recommendation:** Retention and loyalty efforts should be prioritized around Champions and Loyal Customers to protect the ~72% of revenue they generate, while a separate, lower-cost win-back campaign should target the At Risk / Lost segment before they fully churn.
 
-## Dashboard Screenshot
 
-![Dashboard](dashboard_screenshot.png)
 
 ## Repository Structure
 
